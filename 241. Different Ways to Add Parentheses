@@ -1,0 +1,13 @@
+241. Different Ways to Add Parentheses
+Date - 19/09/24
+
+Leetcode Link: https://leetcode.com/problems/different-ways-to-add-parentheses/description/
+Topics covered: • Math • String • Dynamic Programming • Recursion • Memoization 
+
+Conclusion: 
+  • A really good question which tests your recursion understanding , I wasn't able to even think of a brute force solution, had to look into the editorial to understand its recursive approach 
+  • There are 2-D Memoization and Tabulation approach solutions too , but as i haven't learned about those topics so i didn't read those solutions
+
+
+
+
